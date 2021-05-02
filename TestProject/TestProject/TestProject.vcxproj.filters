@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="shirtOrder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gradeSale.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
