@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arrReverse.c" />
+    <ClCompile Include="comp.cpp" />
+    <ClCompile Include="score.cpp" />
     <ClCompile Include="threesixnine.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
