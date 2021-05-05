@@ -19,10 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AllCal.cpp" />
-    <ClCompile Include="AminusB.cpp" />
-    <ClCompile Include="AmultiB.cpp" />
-    <ClCompile Include="end.cpp" />
+    <ClCompile Include="arrReverse.c" />
+    <ClCompile Include="threesixnine.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

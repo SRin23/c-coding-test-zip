@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AminusB.cpp">
+    <ClCompile Include="arrReverse.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="AmultiB.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="AllCal.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="end.cpp">
+    <ClCompile Include="threesixnine.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
