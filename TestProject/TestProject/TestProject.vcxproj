@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="arrReverse.c" />
-    <ClCompile Include="comp.cpp" />
-    <ClCompile Include="score.cpp" />
-    <ClCompile Include="threesixnine.c" />
+    <ClCompile Include="palindrome.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
