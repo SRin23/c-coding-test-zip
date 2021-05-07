@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="palindrome.c">
+    <ClCompile Include="year.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fourArea.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
