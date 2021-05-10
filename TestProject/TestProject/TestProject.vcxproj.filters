@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="oneToNsum.cpp">
+    <ClCompile Include="PrintN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fastSum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
