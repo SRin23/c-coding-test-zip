@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PrintN.cpp">
+    <ClCompile Include="sosu.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="fastSum.cpp">
+    <ClCompile Include="CF.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="backfor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AdeB.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

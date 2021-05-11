@@ -19,8 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fastSum.cpp" />
-    <ClCompile Include="PrintN.cpp" />
+    <ClCompile Include="AdeB.cpp" />
+    <ClCompile Include="backfor.cpp" />
+    <ClCompile Include="CF.c" />
+    <ClCompile Include="sosu.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
