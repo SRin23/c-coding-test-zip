@@ -15,16 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sosu.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CF.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="backfor.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="AdeB.cpp">
+    <ClCompile Include="UnderX.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

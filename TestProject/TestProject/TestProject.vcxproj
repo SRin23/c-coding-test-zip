@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AdeB.cpp" />
-    <ClCompile Include="backfor.cpp" />
-    <ClCompile Include="CF.c" />
-    <ClCompile Include="sosu.c" />
+    <ClCompile Include="UnderX.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
