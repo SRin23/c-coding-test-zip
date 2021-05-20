@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="teachingAssistant44.c">
+    <ClCompile Include="returnPoint46.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="getScore43.c">
+    <ClCompile Include="moreExercise45.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
