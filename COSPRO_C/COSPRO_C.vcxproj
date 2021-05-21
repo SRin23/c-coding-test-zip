@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="moreExercise45.c" />
-    <ClCompile Include="returnPoint46.c" />
+    <ClCompile Include="highscoreLowscore.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

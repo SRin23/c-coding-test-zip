@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="returnPoint46.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="moreExercise45.c">
+    <ClCompile Include="highscoreLowscore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
