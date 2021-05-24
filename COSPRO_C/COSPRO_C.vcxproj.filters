@@ -15,7 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="highscoreLowscore.c">
+    <ClCompile Include="DangerZone49.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="passTest410.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ladder_51.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="empty_timeTable_52.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="carSpeedMoney_53.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scoreAll_54.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

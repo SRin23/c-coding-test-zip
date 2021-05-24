@@ -19,7 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="highscoreLowscore.c" />
+    <ClCompile Include="carSpeedMoney_53.c" />
+    <ClCompile Include="DangerZone49.c" />
+    <ClCompile Include="empty_timeTable_52.c" />
+    <ClCompile Include="ladder_51.c" />
+    <ClCompile Include="passTest410.c" />
+    <ClCompile Include="scoreAll_54.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
