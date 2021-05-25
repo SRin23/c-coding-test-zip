@@ -23,6 +23,8 @@
     <ClCompile Include="DangerZone49.c" />
     <ClCompile Include="empty_timeTable_52.c" />
     <ClCompile Include="ladder_51.c" />
+    <ClCompile Include="Math70Average56.c" />
+    <ClCompile Include="nmarket55.c" />
     <ClCompile Include="passTest410.c" />
     <ClCompile Include="scoreAll_54.c" />
   </ItemGroup>
