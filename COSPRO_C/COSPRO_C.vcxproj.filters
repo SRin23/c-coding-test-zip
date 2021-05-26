@@ -15,28 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DangerZone49.c">
+    <ClCompile Include="BuyMachine57.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="passTest410.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ladder_51.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="empty_timeTable_52.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="carSpeedMoney_53.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scoreAll_54.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Math70Average56.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="nmarket55.c">
+    <ClCompile Include="waterCharge58.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
