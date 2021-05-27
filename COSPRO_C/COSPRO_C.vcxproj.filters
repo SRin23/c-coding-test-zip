@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BuyMachine57.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="waterCharge58.c">
+    <ClCompile Include="ranking59.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
