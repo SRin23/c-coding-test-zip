@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ranking59.c">
+    <ClCompile Include="warmDay61.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
