@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="warmDay61.c">
+    <ClCompile Include="Juice3_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WorkingLongTime5_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

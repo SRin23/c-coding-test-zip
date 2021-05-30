@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 int solution(int temperature[], int temperature_len, int A, int B) {
-    int answer = 0;
+	int answer = 0;
 	int max = 0;
 	if (temperature[A] > temperature[B]) {
 		max = temperature[A];
@@ -16,8 +16,7 @@ int solution(int temperature[], int temperature_len, int A, int B) {
 			answer++;
 		}
 	}
-
-    return answer;
+	return answer;
 }
 
 int main() {
