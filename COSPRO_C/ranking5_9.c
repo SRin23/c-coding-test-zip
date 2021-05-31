@@ -3,21 +3,21 @@
 #include <stdlib.h>
 
 int* solution(int score[], int score_len) {
-	int* answer;
-    answer = (int *)malloc(sizeof(int) * sizeof(score_len));
-	for (int i = 0; i < score_len; i++) {
-		answer[i] = 1;
-	}
+    int* answer;
+    answer = (int*)malloc(sizeof(int) * score_len);
 
-	for (int i = 0; i < score_len-1; i++) {
-        for (int j = i+1; j < score_len; j++) {
+    for (int i = 0; i < score_len; i++) {
+        answer[i] = 1;
+    }
+
+    for (int i = 0; i < score_len; i++) {
+        for (int j = i + 1; j < score_len; j++) {
             if (score[i] < score[j])
                 answer[i]++;
-            else {
+            else if (score[i] > score[j])
                 answer[j]++;
-            }
         }
-	}
+    }
     return answer;
 }
 

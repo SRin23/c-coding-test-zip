@@ -19,8 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Juice3_7.c" />
-    <ClCompile Include="WorkingLongTime5_10.c" />
+    <ClCompile Include="arrFiveWord2_4.c" />
+    <ClCompile Include="CelsiusFahrenheit2_7.c" />
+    <ClCompile Include="ranking5_9.c" />
+    <ClCompile Include="TVListener3_8.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

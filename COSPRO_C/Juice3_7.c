@@ -13,7 +13,7 @@ int solution(int num_apple, int num_carrot, int k) {
 
     for (int i = 0; i < num_apple + num_carrot; i++)
         if (i % 4 == 0)
-            answer++;
+            answer--;
     return answer;
 }
 

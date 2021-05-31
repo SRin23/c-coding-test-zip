@@ -4,17 +4,16 @@
 
 char* solution(char* words[], int words_len) {
     char* answer = "";
-    answer = (char*)malloc(sizeof(words_len+1));
+    answer = (char*)malloc(sizeof(words_len));
 
-    for(int i = 0, j = 0; i<words_len; i++){
- 	    if(sizeof(words[i])/sizeof(int) >= 5){
-            answer[j] = words[i];
-    	}
+    for (int i = 0; i < words_len; i++) {
+        if (strlen(words[i]) >= 5) {
+            strcat(answer, words[i]);
+        }
     }
-    if (answer == NULL) {
+    if (strlen(answer) == 0) {
         answer = "empty";
     }
-
     return answer;
 }
 

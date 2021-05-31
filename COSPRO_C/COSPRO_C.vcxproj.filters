@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Juice3_7.c">
+    <ClCompile Include="TVListener3_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="WorkingLongTime5_10.c">
+    <ClCompile Include="CelsiusFahrenheit2_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrFiveWord2_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ranking5_9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
