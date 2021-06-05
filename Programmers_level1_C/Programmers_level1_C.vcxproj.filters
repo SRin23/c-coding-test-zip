@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="YearOf2016.c">
+    <ClCompile Include="TwoPickSum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TwoPickSum.c">
+    <ClCompile Include="middleChar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
