@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="middleChar.c" />
-    <ClCompile Include="TwoPickSum.c" />
+    <ClCompile Include="StringDes.c" />
+    <ClCompile Include="waterMelon.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
