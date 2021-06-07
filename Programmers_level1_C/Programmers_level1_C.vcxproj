@@ -19,9 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BasicString.c" />
+    <ClCompile Include="divisor.c" />
     <ClCompile Include="StringToInt.c" />
-    <ClCompile Include="TwoPickSum.c" />
+    <ClCompile Include="SumDivisor.c" />
+    <ClCompile Include="WordUpperLower.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

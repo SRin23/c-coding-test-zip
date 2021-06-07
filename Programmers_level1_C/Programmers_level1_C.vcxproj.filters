@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TwoPickSum.c">
+    <ClCompile Include="WordUpperLower.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="divisor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SumDivisor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="StringToInt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BasicString.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
