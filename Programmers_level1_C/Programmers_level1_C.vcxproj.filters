@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="waterMelon.c">
+    <ClCompile Include="TwoPickSum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="StringDes.c">
+    <ClCompile Include="StringToInt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicString.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
