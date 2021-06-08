@@ -19,10 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="divisor.c" />
-    <ClCompile Include="StringToInt.c" />
-    <ClCompile Include="SumDivisor.c" />
-    <ClCompile Include="WordUpperLower.c" />
+    <ClCompile Include="ArraypositionalNumberChange.c" />
+    <ClCompile Include="positionalNumberSum.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
