@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArraypositionalNumberChange.c" />
-    <ClCompile Include="positionalNumberSum.c" />
+    <ClCompile Include="EvenOdd.c" />
+    <ClCompile Include="NPowi.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
