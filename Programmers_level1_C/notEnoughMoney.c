@@ -11,9 +11,12 @@ long long solution(int price, int money, int count) {
     for (int i = 1; i <= count; i++) {
         answer += (price * i);
     }
+    //만약 돈이 부족하지 않다면 0을 return합니다.
+    if (answer <= money) {
+        return 0;
+    }
     //필요한 돈에서 자신이 가지고 있는 돈을 뺴어 부족한 금액을 구합니다.
     answer = answer - money;
-
     //부족한 금액을 return합니다.
     return answer;
 }
