@@ -19,9 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="noNumberArray.c" />
-    <ClCompile Include="notEnoughMoney.c" />
-    <ClCompile Include="theRestIs1.c" />
+    <ClCompile Include="betweenNumberSum.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
