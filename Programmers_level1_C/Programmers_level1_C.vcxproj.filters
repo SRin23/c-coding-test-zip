@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="betweenNumberSum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="StringTest.c">
+    <ClCompile Include="sumOfFactors.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
