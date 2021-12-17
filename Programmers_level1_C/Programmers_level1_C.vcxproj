@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CollatzNumber.c" />
-    <ClCompile Include="sumOfFactors.c" />
+    <ClCompile Include="IntegerSqrt.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
